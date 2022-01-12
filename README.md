@@ -1,16 +1,22 @@
-### Hi there 👋
+# 🌌 Olá! Meu nome é ${Davi Marques}
 
-<!--
-**davi-marques/davi-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sempre em busca de coisas novas
+- ✍ Estudante do Curso em Vídeo
+- 🧠 Atualmente estudo front-end
+- 📫 Contate-me com davimarquesgar@gmail.com
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/davi-marques">
+  <nobr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-marques&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-marques&layout=compact&langs_count=7&theme=highcontrast&title_color=blue&hide_border=true&locale=pt-br"/><nobr/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+</div>
+  
+  ##
