@@ -18,6 +18,13 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/davi-marques">
-  <img height="176em" width="430em" src="https://github-readme-stats.vercel.app/api?username=davi-marques&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
-  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-marques&layout=compact&langs_count=7&theme=highcontrast&title_color=blue&hide_border=true&locale=pt-br"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api?username=davi-marques&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-marques&layout=compact&langs_count=7&theme=highcontrast&title_color=blue&hide_border=true&locale=pt-br"/>
 </div>
+
+   <div align="center">
+    <a href="https://github.com/Mar-io20">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mar-io20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mar-io20&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+   </div>
