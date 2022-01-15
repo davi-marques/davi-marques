@@ -18,6 +18,6 @@
 
 <div align="center">
   <a href="https://github.com/davi-marques">
-  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=davi-marques&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&line_height=24&locale-pt-br">
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=davi-marques&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&line_height=24&locale=pt-br">
   <img height="183em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-marques&layout=compact&langs_count=7&theme=highcontrast&title_color=blue&hide_border=true&locale=pt-br">
 </div>
