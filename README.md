@@ -1,6 +1,6 @@
 # 🌌 Olá! Meu nome é ${Davi Marques}
 
-<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 - 🔭 Sempre em busca de coisas novas
 - ✍ Estudante do Curso em Vídeo
