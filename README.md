@@ -7,7 +7,7 @@
 - 🧠 Atualmente estudo front-end
 - 📫 Contate-me com davimarquesgar@gmail.com
 
-<br>
+<br><br>
 
 <div align="left">
   <a href="https://github.com/davi-marques">
