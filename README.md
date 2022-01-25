@@ -4,7 +4,7 @@
 
 - 🔭 Sempre em busca de coisas novas
 - ✍ Estudante do Curso em Vídeo
-- 🧠 Atualmente estudo front-end
+- 🧠 Atualmente estudo Front-end e Cibersegurança
 - 📫 Contate-me com davimarquesgar@gmail.com
 
 <div style="display: inline_block">
