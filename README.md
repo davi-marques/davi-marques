@@ -3,7 +3,7 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 - 🔭 Sempre em busca de coisas novas
-- ✍ Estudante do Curso em Vídeo
+- ✍ Estudante do Workover
 - 💻 Atualmente estudo Front-end e Cibersegurança
 - 📫 Contate-me com davimarquesgar@gmail.com
 
