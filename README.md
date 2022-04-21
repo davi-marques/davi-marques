@@ -2,7 +2,7 @@
 
 - 🔭 Sempre em busca de coisas novas
 - ✍ Estudante do Workover
-- 💻 Atualmente estudo Front-end e Cibersegurança
+- 💻 Atualmente estudo Cibersegurança e hacking
 - 📫 Contate-me com davimarquesgar@gmail.com
 
 <div style="display: inline_block">
