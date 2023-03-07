@@ -2,7 +2,7 @@
 
 - 🔭 Sempre em busca de coisas novas
 - ✍ Estudante
-- 💻 Atualmente estudo assuntos de tecnologia
+- 💻 Atualmente estudo sobre tecnologia
 - 📫 Contate-me com davimarquesgar@gmail.com
 
 <div style="display: inline_block">
