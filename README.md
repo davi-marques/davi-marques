@@ -1,8 +1,8 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 - 🔭 Sempre em busca de coisas novas
-- ✍ Estudante do Workover
-- 💻 Atualmente estudo Cibersegurança e hacking
+- ✍ Estudante
+- 💻 Atualmente estudo assuntos de tecnologia
 - 📫 Contate-me com davimarquesgar@gmail.com
 
 <div style="display: inline_block">
