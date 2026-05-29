@@ -1,9 +1,8 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 - 🔭 Sempre em busca de coisas novas
-- ✍ Estudante
-- 💻 Atualmente estudo sobre tecnologia
-- 📫 Contate-me com davimarquesgar@gmail.com
+- 💻 Técnico em Informática
+- 📫 Contate-me com davimarquesg@proton.me
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
