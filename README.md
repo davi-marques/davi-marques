@@ -1,7 +1,7 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-- 🔭 Sempre em busca de coisas novas
 - 💻 Técnico em Informática
+- 🔭 Sempre em busca de conhecimento
 - 📫 Contate-me com davimarquesg@proton.me
 
 <div style="display: inline_block">
